@@ -22,5 +22,6 @@
     <dimen name="spaceing_big_48">48dp</dimen>
     <dimen name="spaceing_bigger_56">56dp</dimen>
     <dimen name="spaceing_huge_72">72dp</dimen>
+    <dimen name="line_size">1dp</dimen>
 
 </resources>
